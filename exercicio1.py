@@ -9,4 +9,5 @@ email = input('Digite seu e-mail ')
 while email == '':
     print('O campo de e-mail é obrigatório')
     email = input('Digite seu e-mail: ')
+print("Obrigado ",nome)
 """ fim do loop de repetição que verifica se o e-mail foi preenchido """
